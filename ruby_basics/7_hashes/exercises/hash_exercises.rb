@@ -28,6 +28,7 @@ end
 
 def favorite_categories(favorite_list)
   # return the keys of favorite_list
+  return favourite_list.keys
 end
 
 def favorite_items(favorite_list)
